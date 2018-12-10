@@ -1,2 +1,2 @@
 # HangfireCoreExample
-Hangfire with NET Core and CI implementation example.
+Hangfire with NET Core and DI implementation example.
